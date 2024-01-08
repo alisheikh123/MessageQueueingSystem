@@ -1,0 +1,18 @@
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\RabbitMqConsumerConsoleapp.exe
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Producor Web API.exe
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\RabbitMqConsumerConsoleapp.deps.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\RabbitMqConsumerConsoleapp.runtimeconfig.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\appsettings.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Producor Web API.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Producor Web API.deps.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Producor Web API.runtimeconfig.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Producor Web API.pdb
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\RabbitMQ.Client.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\RabbitMqConsumerConsoleapp.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\PubTmp\Out\RabbitMqConsumerConsoleapp.pdb

@@ -1,0 +1,39 @@
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\appsettings.Development.json
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\appsettings.json
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Producor Web API.exe
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Producor Web API.deps.json
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Producor Web API.runtimeconfig.json
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Producor Web API.dll
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Producor Web API.pdb
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Microsoft.OpenApi.dll
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Newtonsoft.Json.dll
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\RabbitMQ.Client.dll
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.csproj.AssemblyReference.cache
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.AssemblyInfoInputs.cache
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.AssemblyInfo.cs
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.csproj.CoreCompileInputs.cache
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.MvcApplicationPartsAssemblyInfo.cs
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.MvcApplicationPartsAssemblyInfo.cache
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\staticwebassets\msbuild.Producor Web API.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\staticwebassets\msbuild.build.Producor Web API.props
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\staticwebassets\msbuild.buildMultiTargeting.Producor Web API.props
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\staticwebassets\msbuild.buildTransitive.Producor Web API.props
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\staticwebassets.pack.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\staticwebassets.build.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\staticwebassets.development.json
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\scopedcss\bundle\Producor Web API.styles.css
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.csproj.CopyComplete
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\refint\Producor Web API.dll
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.pdb
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\Producor Web API.genruntimeconfig.cache
+D:\Learning\Cedar\Project\Producor Web API\obj\Release\net7.0\ref\Producor Web API.dll
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\RabbitMqConsumerConsoleapp.deps.json
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\RabbitMqConsumerConsoleapp.runtimeconfig.json
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\RabbitMqConsumerConsoleapp.exe
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\RabbitMqConsumerConsoleapp.dll
+D:\Learning\Cedar\Project\Producor Web API\bin\Release\net7.0\RabbitMqConsumerConsoleapp.pdb
