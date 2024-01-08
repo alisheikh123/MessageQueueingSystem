@@ -22,8 +22,16 @@ namespace Producor_Web_API.Controllers
             _rabitMQProducer = rabitMQProducer;
         }
         [HttpPost]
-        public IActionResult GetApplicationsData(RequestParam model)
+        public IActionResult GetApplicationsData(string RequestMethod, string RequestUrl,string? Payload,string? Token)
         {
+            RequestParam model = new RequestParam()
+            {
+                RequestMethod = RequestMethod,
+                RequestUrl = RequestUrl,
+                Payload = Payload,
+                Token = Token
+            };
+
            _rabitMQProducer.SendProductMessage(model);
             return Ok();
         }
