@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Producor Web API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+036a91882efc79320aaeb70f37670e61c4a16fb8")]
 [assembly: System.Reflection.AssemblyProductAttribute("Producor Web API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Producor Web API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

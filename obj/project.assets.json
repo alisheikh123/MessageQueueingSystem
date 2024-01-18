@@ -1,7 +1,7 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {
+    "net8.0": {
       "Microsoft.Extensions.ApiDescription.Server/3.0.0": {
         "type": "package",
         "build": {
@@ -142,20 +142,6 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
-        }
-      },
-      "RabbitMqConsumerConsoleapp/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Newtonsoft.Json": "13.0.2",
-          "RabbitMQ.Client": "6.8.1"
-        },
-        "compile": {
-          "bin/placeholder/RabbitMqConsumerConsoleapp.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/RabbitMqConsumerConsoleapp.dll": {}
         }
       }
     }
@@ -384,58 +370,48 @@
         "system.threading.channels.nuspec",
         "useSharedDesignerContext.txt"
       ]
-    },
-    "RabbitMqConsumerConsoleapp/1.0.0": {
-      "type": "project",
-      "path": "../RabbitMqConsumerConsoleapp/RabbitMqConsumerConsoleapp.csproj",
-      "msbuildProject": "../RabbitMqConsumerConsoleapp/RabbitMqConsumerConsoleapp.csproj"
     }
   },
   "projectFileDependencyGroups": {
-    "net7.0": [
+    "net8.0": [
       "Newtonsoft.Json >= 13.0.2",
       "RabbitMQ.Client >= 6.8.1",
-      "RabbitMqConsumerConsoleapp >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.2.3"
     ]
   },
   "packageFolders": {
-    "C:\\Users\\a.raza\\.nuget\\packages\\": {},
+    "C:\\Users\\Alira\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Learning\\Cedar\\Project\\Producor Web API\\Producor Web API.csproj",
-      "projectName": "Producor Web API",
-      "projectPath": "D:\\Learning\\Cedar\\Project\\Producor Web API\\Producor Web API.csproj",
-      "packagesPath": "C:\\Users\\a.raza\\.nuget\\packages\\",
-      "outputPath": "D:\\Learning\\Cedar\\Project\\Producor Web API\\obj\\",
+      "projectUniqueName": "E:\\Ali\\Cedar\\MessageQueuingSystem\\MessageQueuingSystem\\Producor Web API\\ProducorAPI.csproj",
+      "projectName": "ProducorAPI",
+      "projectPath": "E:\\Ali\\Cedar\\MessageQueuingSystem\\MessageQueuingSystem\\Producor Web API\\ProducorAPI.csproj",
+      "packagesPath": "C:\\Users\\Alira\\.nuget\\packages\\",
+      "outputPath": "E:\\Ali\\Cedar\\MessageQueuingSystem\\MessageQueuingSystem\\Producor Web API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\a.raza\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alira\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
-          "projectReferences": {
-            "D:\\Learning\\Cedar\\Project\\RabbitMqConsumerConsoleapp\\RabbitMqConsumerConsoleapp.csproj": {
-              "projectPath": "D:\\Learning\\Cedar\\Project\\RabbitMqConsumerConsoleapp\\RabbitMqConsumerConsoleapp.csproj"
-            }
-          }
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -445,8 +421,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "dependencies": {
           "Newtonsoft.Json": {
             "target": "Package",
@@ -480,7 +456,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
